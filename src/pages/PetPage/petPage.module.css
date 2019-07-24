@@ -1,0 +1,11 @@
+.main {
+  padding-top: 50px;
+}
+
+.btn {
+  width: 170px;
+  height: 50px;
+  background-color: rgb(51, 31, 31);
+  color: white;
+  font-size: 25px;
+}

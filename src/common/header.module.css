@@ -1,0 +1,35 @@
+.header {
+  padding: 50px 0;
+  background-color: rgb(51, 31, 31);
+  height: 10vh;
+}
+
+.header nav {
+  width: 80%;
+}
+
+.header ul {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.header li {
+  font-size: 36px;
+  flex-basis: 20%;
+}
+
+.header a {
+  color: white;
+}
+
+.header li:hover a {
+  color: bisque;
+}
+
+.header a {
+  text-decoration: none;
+}
+
+.activeLink {
+  color: rgb(255, 255, 169) !important;
+}
