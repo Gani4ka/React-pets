@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-pets/static/css/main.67ad09c3.chunk.css",
-    "main.js": "/react-pets/static/js/main.cec9f816.chunk.js",
-    "main.js.map": "/react-pets/static/js/main.cec9f816.chunk.js.map",
+    "main.js": "/react-pets/static/js/main.d56f5614.chunk.js",
+    "main.js.map": "/react-pets/static/js/main.d56f5614.chunk.js.map",
     "runtime~main.js": "/react-pets/static/js/runtime~main.dc2a518f.js",
     "runtime~main.js.map": "/react-pets/static/js/runtime~main.dc2a518f.js.map",
-    "static/js/2.dbe413bb.chunk.js": "/react-pets/static/js/2.dbe413bb.chunk.js",
-    "static/js/2.dbe413bb.chunk.js.map": "/react-pets/static/js/2.dbe413bb.chunk.js.map",
+    "static/js/2.20bea752.chunk.js": "/react-pets/static/js/2.20bea752.chunk.js",
+    "static/js/2.20bea752.chunk.js.map": "/react-pets/static/js/2.20bea752.chunk.js.map",
     "index.html": "/react-pets/index.html",
-    "precache-manifest.da7aab736fa85dd2ee08de9af19905ce.js": "/react-pets/precache-manifest.da7aab736fa85dd2ee08de9af19905ce.js",
+    "precache-manifest.bfba170ecbdf2db68a6bc7fc1dd1ec39.js": "/react-pets/precache-manifest.bfba170ecbdf2db68a6bc7fc1dd1ec39.js",
     "service-worker.js": "/react-pets/service-worker.js",
     "static/css/main.67ad09c3.chunk.css.map": "/react-pets/static/css/main.67ad09c3.chunk.css.map"
   }
